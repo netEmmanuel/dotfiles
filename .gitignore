@@ -1,0 +1,8 @@
+/node_modules
+.vscode/
+.env
+/vendor
+*.log
+*.key
+*.crt
+.git
