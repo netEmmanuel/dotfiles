@@ -21,7 +21,7 @@
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Sublime Text](https://www.sublimetext.com/)
 - [Postman](https://www.getpostman.com/)
-- [Docker](https://docs.docker.com/docker-for-mac/install/)
+- [Docker](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
 
 </details>
 
