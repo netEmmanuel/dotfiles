@@ -1,4 +1,4 @@
-#system aliase
+#system alias
 alias cl='clear'
 
 # Git aliases
