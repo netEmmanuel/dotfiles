@@ -17,5 +17,10 @@
         "file:///home/dammy/.vscode/extensions/atlassian.atlascode-1.4.1/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
     },
     "git.autofetch": true,
-    "workbench.colorTheme": "Night Owl"
+    "workbench.colorTheme": "Night Owl",
+
+    // install phpcs using composer then run `sudo ln -s ~/.composer/vendor/bin/phpcs /usr/local/bin/phpcs`
+    "phpcs.standard": "PSR2",
+    "phpcs.enable": true,
+    "phpcs.autoConfigSearch": true
 }
