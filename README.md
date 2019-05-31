@@ -28,3 +28,16 @@
 ## Github SSH Key Setup
 
 [Adding a new SSH key to my GitHub account](https://help.github.com/en/articles/adding-a-new-ssh-key-to-your-github-account)
+
+<details>
+<summary>CLI Tools & Utilities</summary>
+
+- [ZSH](https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH)
+- [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
+- [powerlevel9k for ZSH](https://github.com/bhilburn/powerlevel9k)
+- [Gatsby](https://www.gatsbyjs.org/docs/)
+- [Vue](https://cli.vuejs.org/)
+- [yo](https://github.com/yeoman/yo)
+- [Create-react-app](https://github.com/facebook/create-react-app)
+
+</details>

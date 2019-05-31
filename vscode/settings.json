@@ -1,6 +1,4 @@
 {
-    "workbench.iconTheme": "vscode-icons",
-    "workbench.colorTheme": "Dobri Next -C09- Eve",
     "window.zoomLevel": 0,
     "terminal.integrated.rendererType": "dom",
     "javascript.updateImportsOnFileMove.enabled": "always",
@@ -9,7 +7,15 @@
     ],
     "workbench.startupEditor": "newUntitledFile",
     "editor.largeFileOptimizations": false,
-    "editor.fontFamily": " 'Fira Code', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontFamily": " 'Dank Mono', 'Fira Code', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
     "editor.fontLigatures": true,
-    "vsicons.dontShowNewVersionMessage": true
+    "explorer.confirmDelete": false,
+    "atlascode.jira.workingSite": {
+        "baseUrlSuffix": "atlassian.net"
+    },
+    "yaml.schemas": {
+        "file:///home/dammy/.vscode/extensions/atlassian.atlascode-1.4.1/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "git.autofetch": true,
+    "workbench.colorTheme": "Night Owl"
 }
