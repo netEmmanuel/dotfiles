@@ -25,10 +25,6 @@
 
 </details>
 
-## Github SSH Key Setup
-
-[Adding a new SSH key to my GitHub account](https://help.github.com/en/articles/adding-a-new-ssh-key-to-your-github-account)
-
 <details>
 <summary>CLI Tools & Utilities</summary>
 
@@ -41,3 +37,7 @@
 - [Create-react-app](https://github.com/facebook/create-react-app)
 
 </details>
+
+## Github SSH Key Setup
+
+[Adding a new SSH key to my GitHub account](https://help.github.com/en/articles/adding-a-new-ssh-key-to-your-github-account)
